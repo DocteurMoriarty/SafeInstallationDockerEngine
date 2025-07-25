@@ -20,7 +20,7 @@ apt install docker.io
 # → Docker 20.10.x (sorti en 2020)
 
 # Version officielle Docker (actuelle)
-# → Docker 24.x+ (avec toutes les dernières fonctionnalités)
+# → Docker 28.x+ (avec toutes les dernières fonctionnalités)
 ```
 
 ### Conséquences pratiques
